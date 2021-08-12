@@ -16,5 +16,8 @@ make -j $1
 sudo make altinstall
 
 python3.9 --version
-echo "done!"
+echo "python done!"
+
+sudo apt install htop
+echo "htop done!"
  
